@@ -19,3 +19,4 @@ console.log({
     "aaabbbccdddddeew":stringCompression("aaabbbccdddddeew"),
     "monnbbbbfv":stringCompression("monnbbfv")
 });
+
